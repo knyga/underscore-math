@@ -1,0 +1,32 @@
+{
+  "name": "underscore-math",
+  "version": "0.0.1",
+  "authors": [
+    "Oleksandr Knyga <oleksandrknyga@gmail.com>"
+  ],
+  "description": "Underscore's extension with max functions (sum, mean, median and nrange)",
+  "main": "dist/undercore-math.js",
+  "keywords": [
+    "underscore",
+    "_",
+    "math",
+    "sum",
+    "mean",
+    "median",
+    "nrange",
+    "knyga",
+    "ok"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/knyga/underscore-math",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}
